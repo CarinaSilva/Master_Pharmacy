@@ -1,4 +1,5 @@
-# Master_Pharmacy
+# Master in Pharmacy
+# Course in Introduction to Biostatistics Applied to Clinical Investigation 
 
 ## Curricular Unit: Biostatistics 
 
