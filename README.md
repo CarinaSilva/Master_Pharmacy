@@ -1,7 +1,9 @@
 # Master in Pharmacy
+## Curricular Unit: Biostatistics 
+
 # Course in Introduction to Biostatistics Applied to Clinical Investigation 
 
-## Curricular Unit: Biostatistics 
+
 
 ### Objectives
 It is intended that students, at the end of the curricular unit, know the most important concepts and methods in the field of statistical inference and be able to identify and apply, with the help of statistical software, the appropriate methods to each concrete problem, in particular in clinical and pharmaceutical research studies.
