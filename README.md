@@ -18,9 +18,11 @@ At the end of the course, the student will be able to:
 
 ### Sylabus
 
-1. Statistical Inference revision.
-2. Construction and validation of surveys.
-3. Experimental Designs 
-4. Clinical Trials
-5. Quality Control
+1. DESCRIPTIVE STATISTICS AND EXPLORATORY DATA ANALYSIS.
+2. DISCRETE AND CONTINUOUS PROBABILITY DISTRIBUTION FUNCTIONS
+3. STATISTICAL INFERENCE:  
+4. EXPERIMENTAL DESIGNS 
+5. CLINICAL TRIALS
+
+
 
